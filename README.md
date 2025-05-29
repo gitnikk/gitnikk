@@ -34,10 +34,12 @@
 
 ---
 
-### 🧠 Dream Product
+### 🚀 Featured Project
 
-- [Food Connect 🍱](#) — A personal initiative to build a home-cooked meal platform for India (Angular + Laravel)
-- Exploring micro-frontends and scalable app patterns
+🔗 [Food Connect - Home Cooked Meals Platform](https://github.com/gitnikk/food-connect)
+
+A personal dream project where I'm building a home-cooked food delivery app for Indian users.  
+> Tech Stack: Angular 16, CapacitorJS, Laravel, MySQL
 
 ---
 ## 📫 Connect With Me
