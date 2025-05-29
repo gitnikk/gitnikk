@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Frontend Developer | Passionate about building meaningful tech 🌍 | Future Tech Entrepreneur </h3>
+<h3 align="center">Frontend Developer | Passionate about building meaningful tech | Future Tech Entrepreneur 🌍</h3>
 
 ---
 - 🔧 Experienced **Frontend Developer** with 10+ years in building scalable, user-centric web applications.
 - 💼 Worked extensively with **Angular** (v2 to v16) and **PHP (Laravel)** for enterprise-level apps and modular frontend architectures.
 - 🌐 Skilled in RESTful API integration, component-driven design, and clean UI/UX implementations.
 - 🤝 Collaborative team player, comfortable with Agile and cross-functional environments. 
-- ⚡ Fun fact: I’m a foodie, a traveler, and I dream of launching my own food-tech startup in India 🇮🇳
+- ⚡ Fun fact: Love to travel, read, and I dream of launching my own food-tech startup in India 🇮🇳
 
 ---
 
@@ -14,11 +14,12 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/NgRx-7E57C2?style=for-the-badge&logo=ngrx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapacitorJS-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 ---
