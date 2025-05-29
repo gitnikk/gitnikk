@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Frontend Developer | Future Tech Entrepreneur | Creator of Food Connect 🍱</h3>
+<h3 align="center">Frontend Developer | Passionate about building meaningful tech 🌍 | Future Tech Entrepreneur </h3>
 
 ---
-
-- 🔭 I’m currently working on **Food Connect**, a web/mobile platform to connect home chefs and food lovers  
-- 🌱 Learning and building with **Angular 16**, **NgRx**, **Laravel**, and **CapacitorJS**  
-- 👨‍💻 10+ years of experience building clean, user-focused web applications  
-- 💬 Ask me about anything related to Angular, RxJS, or app architecture  
+- 🔧 Experienced **Frontend Developer** with 10+ years in building scalable, user-centric web applications.
+- 💼 Worked extensively with **Angular** (v2 to v16) and **PHP (Laravel)** for enterprise-level apps and modular frontend architectures.
+- 🌐 Skilled in RESTful API integration, component-driven design, and clean UI/UX implementations.
+- 🤝 Collaborative team player, comfortable with Agile and cross-functional environments. 
 - ⚡ Fun fact: I’m a foodie, a traveler, and I dream of launching my own food-tech startup in India 🇮🇳
 
 ---
@@ -34,14 +33,14 @@
 
 ---
 
-### 🧠 Currently Building
+### 🧠 Dream Product
 
-- [Food Connect 🍱](#) — Home-cooked meals ordering platform (Angular + Laravel)
+- [Food Connect 🍱](#) — A personal initiative to build a home-cooked meal platform for India (Angular + Laravel)
 - Exploring micro-frontends and scalable app patterns
 
 ---
-
-### 📫 Let’s Connect
+## 📫 Connect With Me
+If you're a recruiter or collaborator, feel free to reach out!
 
 <p>
   <a href="https://www.linkedin.com/in/nikhiljadhav1990/" target="_blank">
@@ -51,3 +50,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## ✨ Fun Fact
+When I'm not coding, I’m either planning a new business idea 💡, watching movies 🍿, or playing with my son 👶.
+
